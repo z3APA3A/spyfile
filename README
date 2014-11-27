@@ -1,0 +1,6 @@
+Usage: spyfile.exe <file_path>
+ Monitor file cheanges
+ keep access to the file even after file permissions have changed
+(c) Vladimir Dubrovin, 3APA3A
+ http://securityvulns.com
+ http://securityvulns.ru
